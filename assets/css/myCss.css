@@ -1,0 +1,35 @@
+.imgSize{
+    height: 15em;
+    /* width: 100%; */
+}
+.mongoSize{
+    height:11em;
+}
+.reduxSize{
+    height: 13em;
+}
+.postSize{
+    height: 13em;
+}
+.exSize{
+    height: 12em;
+}
+.sqlSize{
+    height: 14em;
+}
+.headshot{
+    width: 50% !important;
+    /* text-align: justify; */
+}
+.hCenter{
+    display: flex !important;
+    justify-content: center;
+}
+.contactMe{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.specialParas{
+    margin-bottom: 1em !important;
+}
