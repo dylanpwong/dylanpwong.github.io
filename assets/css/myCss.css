@@ -18,7 +18,7 @@
     height: 14em;
 }
 .headshot{
-    width: 50% !important;
+    width: 30% !important;
     /* text-align: justify; */
 }
 .hCenter{
@@ -32,4 +32,20 @@
 }
 .specialParas{
     margin-bottom: 1em !important;
+}
+#banner{
+    background-color: #ffd3b6;
+}
+.carousel{
+    background-color: #ffaaa5;
+}
+.style2{
+    background-color: #ffd3b6;
+}
+.style1{
+     background-color: #ffaaa5;
+}
+img{
+    border-radius: 2em;
+    border: 1px solid white;
 }
