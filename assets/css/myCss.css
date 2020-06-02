@@ -1,51 +1,19 @@
+.circleLogo{
+    border-radius: 20em;
+    width: 30%;
+}
+.iconSize{
+    font-size: 7em;
+}
 .imgSize{
-    height: 15em;
-    /* width: 100%; */
-}
-.mongoSize{
-    height:11em;
-}
-.reduxSize{
-    height: 13em;
-}
-.postSize{
-    height: 13em;
-}
-.exSize{
-    height: 12em;
-}
-.sqlSize{
-    height: 14em;
-}
-.headshot{
-    width: 30% !important;
-    /* text-align: justify; */
-}
-.hCenter{
-    display: flex !important;
-    justify-content: center;
-}
-.contactMe{
-    width: 100%;
-    display: flex;
-    justify-content: center;
-}
-.specialParas{
-    margin-bottom: 1em !important;
-}
-#banner{
-    background-color: #ffd3b6;
-}
-.carousel{
-    background-color: #ffaaa5;
-}
-.style2{
-    background-color: #ffd3b6;
-}
-.style1{
-     background-color: #ffaaa5;
+    width: calc(33.33% - 2em);
 }
 img{
+    width: 100%;
+}
+.stdImg{
+    /* width: 5%; */
+}
+.rounder{
     border-radius: 2em;
-    border: 1px solid white;
 }
